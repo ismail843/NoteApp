@@ -67,3 +67,60 @@ const addNote = (text = "") => {
     });
   }
 })();
+
+
+// let amt = prompt("enter the number ")
+// if (amt >= 500)
+// {
+//     console.log("500 notes" + Math.floor(amt/500));
+//     amt = amt % 500;
+    
+// }
+// if (amt >= 200){
+//     console.log("200 notes" + Math.floor(amt/200));
+//     amt = amt % 200;
+// }
+// if(amt >= 100 ){
+//     console.log("100 notes:" + Math.floor(amt/100))
+//     amt = amt % 100;
+// }
+// if(amt >= 50 ){
+//     console.log("50 notes:" + Math.floor(amt/50))
+//     amt = amt % 50;
+// }
+// if(amt >= 20 ){
+//     console.log("20 notes:" + Math.floor(amt/20))
+//     amt = amt % 20;
+// }
+// if(amt >= 5 ){
+//     console.log("5 notes:" + Math.floor(amt/5))
+//     amt = amt % 5;
+// }
+// if(amt >= 1 ){
+//     console.log("1 notes:" + Math.floor(amt/1))
+//     amt = amt % 1;
+// }
+
+// let day = 5;
+// switch(day){
+//     case 1: 
+//     console.log("mon");
+//     break;
+//     case 1,
+//     : 
+//     console.log("mon");
+//     break;
+//     case 1: 
+//     console.log("mon");
+//     break;
+//     case 1: 
+//     console.log("mon");
+//     break;
+//     case 1: 
+//     console.log("mon");
+//     break;
+//     case 1: 
+//     console.log("mon");
+//     break;
+    
+// }
